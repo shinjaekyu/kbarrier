@@ -350,6 +350,11 @@ footer{font-size:14.5px;border-top-color:var(--line);line-height:1.75}
 .difflist span{display:block;margin-top:8px;font-size:16px;color:var(--gray);line-height:1.65}
 @media (min-width:640px){.difflist{grid-template-columns:repeat(2,1fr)}}
 @media (min-width:900px){.difflist{grid-template-columns:repeat(3,1fr);gap:20px}.difflist strong{font-size:20px}.difflist span{font-size:16.5px}.difflist:has(li:nth-child(4):last-child){grid-template-columns:repeat(2,1fr)}}
+.related{margin-top:40px}
+.related h3{font-size:19px;margin-bottom:14px}
+.related .chips li{padding:0;background:#fff}
+.related .chips a{display:block;padding:10px 18px;font-weight:500}
+.related .chips li:hover{border-color:var(--accent)}
 /* ===== Home (B) ===== */
 .m-wrap{max-width:1280px;margin:0 auto;padding:0 var(--gutter)}
 .m-eyebrow{font-family:var(--font-en);font-size:14px;font-weight:700;letter-spacing:.1em;color:var(--accent);text-transform:uppercase}
