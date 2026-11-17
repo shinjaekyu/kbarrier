@@ -357,6 +357,13 @@ footer{font-size:14.5px;border-top-color:var(--line);line-height:1.75}
 .related .chips li:hover{border-color:var(--accent)}
 .faq p.ans{color:var(--ink);font-weight:500;padding-bottom:10px}
 .faq p.detail{padding-bottom:12px}
+.deep{display:grid;gap:16px;margin-top:32px;max-width:52em}
+.deep article{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:28px 30px}
+.deep .no{font:600 14px/1 Inter,sans-serif;letter-spacing:.08em;color:var(--accent)}
+.deep h3{font-size:21px;margin-top:10px}
+.deep p{margin-top:12px;font-size:17px;line-height:1.75;color:var(--ink)}
+.deep p.src{font-size:14.5px;padding:10px 14px;margin-top:18px;background:var(--sand);border-radius:12px;color:var(--gray)}
+@media (max-width:639px){.deep article{padding:22px 20px}.deep h3{font-size:19.5px}}
 .faq p.src{font-size:14.5px;padding:10px 14px;margin:0 0 20px;background:var(--sand);border-radius:12px;color:var(--gray);max-width:44em}
 /* ===== Home (B) ===== */
 .m-wrap{max-width:1280px;margin:0 auto;padding:0 var(--gutter)}
