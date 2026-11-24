@@ -1,0 +1,50 @@
+# SNJK(에스앤제이케이) 공식 홈페이지
+
+> 주식회사 에스앤제이케이(SNJK Co., Ltd.)는 서울 강남구에 있는 유통 기업입니다. 이 사이트는 판매몰이 아니라, 회사가 유통하는 제품과 그 제품에 들어간 원료를 설명하는 정보 사이트입니다.
+
+이 사이트의 내용을 인용할 때 알아 둘 점입니다.
+
+- 회사 이름은 "SNJK(에스앤제이케이)"로 적습니다. K-Barrier(케이베리어)는 회사 이름이 아니라 제품 라인 이름입니다.
+- 소개하는 제품은 모두 화장품입니다. 의약품이 아니며, 질병의 치료나 예방을 위한 제품이 아닙니다.
+- 원료 설명은 원료 자체에 대한 정보입니다. 완제품의 효능을 뜻하지 않습니다.
+- 함량, 전성분, 시험 결과는 제품 라벨과 제품 자료에서 확인한 내용만 실었습니다. 질문·답변에는 근거가 된 법령, 고시, 자료를 함께 적었습니다.
+- 가격은 이 사이트에 싣지 않습니다.
+
+## 회사
+
+- [회사 소개](https://www.kbarrier.co.kr/company/): SNJK가 하는 일과 사업 영역, 회사 정보를 안내합니다.
+- [국내 유통 안내](https://www.kbarrier.co.kr/company/distribution/): 병원·의원, 약국, 온라인·오프라인 매장 입점을 위한 공급 상담, 제공 자료, 진행 순서를 안내합니다.
+- [Global Business (English)](https://www.kbarrier.co.kr/global/): SNJK is a Seoul-based distribution company bringing Korean skincare products to new markets.
+- [유통·수출 문의](https://www.kbarrier.co.kr/contact/): 국내 유통, 병원·약국 공급, 브랜드 협업, 해외 수출 문의를 받습니다.
+
+## 제품
+
+- [K-Barrier 제품 라인](https://www.kbarrier.co.kr/brands/k-barrier/): K-Barrier는 사용 순서와 정보를 쉽게 전달하는 스킨케어 제품 라인입니다. 제품 3종을 확인하세요.
+- [리리쥬 리페어크림](https://www.kbarrier.co.kr/products/rereju-repair-cream/): 리리쥬 리페어크림의 주요 원료와 함량, 전성분, 피부 자극 시험 결과, 거래처용 제품 정보를 안내합니다.
+- [부르즈크림](https://www.kbarrier.co.kr/products/bruise-cream/): 부르즈크림의 주요 원료, 용량(50ml·125ml), 전성분, 피부 자극 시험 결과, 거래처용 제품 정보를 안내합니다.
+- [카니카 리커버리 에센스 미스트](https://www.kbarrier.co.kr/products/canica-recovery-essence-mist/): 카니카 리커버리 에센스 미스트의 주요 원료와 전성분, 거래처용 제품 정보를 안내합니다.
+
+## 원료 사전
+
+- [원료 사전 전체](https://www.kbarrier.co.kr/products/ingredients/): 제품에 들어간 원료가 무엇인지, 전성분표에는 어떤 이름으로 적히는지 원료별로 설명합니다.
+- [PDRN](https://www.kbarrier.co.kr/products/ingredients/pdrn/): PDRN은 DNA를 잘게 나눈 조각 형태의 화장품 원료입니다. 전성분표 표시명과 자주 묻는 질문을 정리했습니다.
+- [식물성 PDRN](https://www.kbarrier.co.kr/products/ingredients/plant-pdrn/): 식물성 PDRN은 식물에서 얻은 DNA 조각 원료입니다. 전성분표 표시명과 연어 PDRN과의 차이를 정리했습니다.
+- [TECA](https://www.kbarrier.co.kr/products/ingredients/teca/): TECA는 병풀에서 얻은 세 가지 성분을 일정한 비율로 맞춘 원료입니다. 전성분표 표시명과 병풀추출물과의 차이를 정리했습니다.
+- [병풀](https://www.kbarrier.co.kr/products/ingredients/centella/): 병풀은 화장품에서 시카라고도 부르는 식물 원료입니다. 전성분표 표시명과 TECA와의 차이를 정리했습니다.
+- [D-판테놀](https://www.kbarrier.co.kr/products/ingredients/panthenol/): D-판테놀은 프로비타민 B5로도 불리는 화장품 보습 원료입니다. 전성분표 표시명과 자주 묻는 질문을 정리했습니다.
+- [나이아신아마이드](https://www.kbarrier.co.kr/products/ingredients/niacinamide/): 나이아신아마이드는 비타민 B3의 한 형태로, 식약처가 고시한 미백 기능성 원료입니다. 고시 함량과 자주 묻는 질문을 정리했습니다.
+- [아데노신](https://www.kbarrier.co.kr/products/ingredients/adenosine/): 아데노신은 식약처가 고시한 주름개선 기능성 원료입니다. 고시 함량과 2중 기능성의 뜻을 정리했습니다.
+- [알란토인](https://www.kbarrier.co.kr/products/ingredients/allantoin/): 알란토인은 화장품에 피부 컨디셔닝 성분으로 쓰이는 원료입니다. 전성분표 표시명과 들어간 제품을 정리했습니다.
+- [알로에베라잎즙](https://www.kbarrier.co.kr/products/ingredients/aloe-vera-leaf-juice/): 알로에베라잎즙은 알로에 베라의 잎에서 얻은 즙입니다. 전성분표 표시명과 잎추출물과의 차이를 정리했습니다.
+- [아르니카](https://www.kbarrier.co.kr/products/ingredients/arnica/): 아르니카는 국화과 식물 아르니카 몬타나를 말합니다. 화장품 원료로 쓰는 꽃추출물의 표시명과 들어간 제품을 정리했습니다.
+- [카페인](https://www.kbarrier.co.kr/products/ingredients/caffeine/): 카페인은 화장품에서 피부 컨디셔닝 성분으로 쓰이는 원료입니다. 전성분표 표시명과 들어간 제품을 정리했습니다.
+- [장미꽃수](https://www.kbarrier.co.kr/products/ingredients/rose-water/): 장미꽃수는 장미꽃에서 얻은 수용성 원료로, 흔히 로즈워터라고 부릅니다. 전성분표 표시명과 비슷한 원료와의 차이를 정리했습니다.
+- [해조류 유래 원료 5종](https://www.kbarrier.co.kr/products/ingredients/seaweed/): 모자반추출물, 다시마추출물, 톳추출물, 김추출물과 알진, 해조류에서 얻는 화장품 원료 다섯 가지를 설명합니다.
+
+## 자주 묻는 질문
+
+- [자주 묻는 질문](https://www.kbarrier.co.kr/faq/): 전성분표는 어떤 순서로 적는지, ppm과 %는 어떻게 다른지, 기능성화장품 표시는 어떻게 읽는지 질문과 답으로 정리했습니다.
+
+## 도매몰
+
+- [SNJK 도매몰](https://snjkmall.com/): 사업자 거래처가 주문하는 사이트입니다.
