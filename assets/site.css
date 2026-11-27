@@ -433,3 +433,5 @@ footer{font-size:14.5px;border-top-color:var(--line);line-height:1.75}
   .b-band.flip .pic{order:2}
   .bd1{left:24px;bottom:28px}.bd2{right:24px;top:28px}
 }
+
+.menu a.ko{font-family:inherit;letter-spacing:0;font-size:14px;font-weight:600}@media(min-width:900px){.menu a.ko{font-size:15px}}
